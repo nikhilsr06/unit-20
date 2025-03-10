@@ -3,7 +3,7 @@ import pytest
 from collections import Counter
 
 
-from two import (
+from encyclopedia import (
     ComicsDatasetManager,
     ComicSearchService,
     handle_special_characters,
